@@ -1,0 +1,15 @@
+E:\work\ML.HelloWorld\ML.HelloWorld\bin\Debug\netcoreapp2.2\MLModel.zip
+E:\work\ML.HelloWorld\ML.HelloWorld\bin\Debug\netcoreapp2.2\ML.HelloWorld.deps.json
+E:\work\ML.HelloWorld\ML.HelloWorld\bin\Debug\netcoreapp2.2\ML.HelloWorld.runtimeconfig.json
+E:\work\ML.HelloWorld\ML.HelloWorld\bin\Debug\netcoreapp2.2\ML.HelloWorld.runtimeconfig.dev.json
+E:\work\ML.HelloWorld\ML.HelloWorld\bin\Debug\netcoreapp2.2\ML.HelloWorld.dll
+E:\work\ML.HelloWorld\ML.HelloWorld\bin\Debug\netcoreapp2.2\ML.HelloWorld.pdb
+E:\work\ML.HelloWorld\ML.HelloWorld\bin\Debug\netcoreapp2.2\ML.HelloWorldML.Model.dll
+E:\work\ML.HelloWorld\ML.HelloWorld\bin\Debug\netcoreapp2.2\ML.HelloWorldML.Model.pdb
+E:\work\ML.HelloWorld\ML.HelloWorld\obj\Debug\netcoreapp2.2\ML.HelloWorld.csprojAssemblyReference.cache
+E:\work\ML.HelloWorld\ML.HelloWorld\obj\Debug\netcoreapp2.2\ML.HelloWorld.csproj.CoreCompileInputs.cache
+E:\work\ML.HelloWorld\ML.HelloWorld\obj\Debug\netcoreapp2.2\ML.HelloWorld.AssemblyInfoInputs.cache
+E:\work\ML.HelloWorld\ML.HelloWorld\obj\Debug\netcoreapp2.2\ML.HelloWorld.AssemblyInfo.cs
+E:\work\ML.HelloWorld\ML.HelloWorld\obj\Debug\netcoreapp2.2\ML.HelloWorld.csproj.CopyComplete
+E:\work\ML.HelloWorld\ML.HelloWorld\obj\Debug\netcoreapp2.2\ML.HelloWorld.dll
+E:\work\ML.HelloWorld\ML.HelloWorld\obj\Debug\netcoreapp2.2\ML.HelloWorld.pdb

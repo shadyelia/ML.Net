@@ -1,0 +1,10 @@
+E:\work\ML.HelloWorld\ML.HelloWorldML.Model\bin\Debug\netcoreapp2.1\MLModel.zip
+E:\work\ML.HelloWorld\ML.HelloWorldML.Model\bin\Debug\netcoreapp2.1\ML.HelloWorldML.Model.deps.json
+E:\work\ML.HelloWorld\ML.HelloWorldML.Model\bin\Debug\netcoreapp2.1\ML.HelloWorldML.Model.dll
+E:\work\ML.HelloWorld\ML.HelloWorldML.Model\bin\Debug\netcoreapp2.1\ML.HelloWorldML.Model.pdb
+E:\work\ML.HelloWorld\ML.HelloWorldML.Model\obj\Debug\netcoreapp2.1\ML.HelloWorldML.Model.csprojAssemblyReference.cache
+E:\work\ML.HelloWorld\ML.HelloWorldML.Model\obj\Debug\netcoreapp2.1\ML.HelloWorldML.Model.csproj.CoreCompileInputs.cache
+E:\work\ML.HelloWorld\ML.HelloWorldML.Model\obj\Debug\netcoreapp2.1\ML.HelloWorldML.Model.AssemblyInfoInputs.cache
+E:\work\ML.HelloWorld\ML.HelloWorldML.Model\obj\Debug\netcoreapp2.1\ML.HelloWorldML.Model.AssemblyInfo.cs
+E:\work\ML.HelloWorld\ML.HelloWorldML.Model\obj\Debug\netcoreapp2.1\ML.HelloWorldML.Model.dll
+E:\work\ML.HelloWorld\ML.HelloWorldML.Model\obj\Debug\netcoreapp2.1\ML.HelloWorldML.Model.pdb
